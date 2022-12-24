@@ -1,0 +1,1 @@
+insert into Course(id,name) values(1001,'Lets start IntelliJ');
